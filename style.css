@@ -22,7 +22,7 @@ footer {
 .containermerchstore {
 	width: 100%;
 	height: 100vh;
-	background-image: url(images/Merch.jpg);
+	background-image: url(images/Merch.JPG);
 	background position: center;
 	background-size: cover;
 	position: relative;
@@ -38,7 +38,7 @@ footer {
 .containeractivities {
 	width: 100%;
 	height: 100vh;
-	background-image: url(images/ACC.jpg);
+	background-image: url(images/ACC.JPG);
 	background position: center;
 	background-size: cover;
 	position: relative;	
